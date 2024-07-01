@@ -11,7 +11,11 @@ Past Symposia
 DFOS is held biennially:
 
 * [2nd Derivative-Free Optimization Symposium (DFOS'24)](https://sites.google.com/diag.uniroma1.it/dfos24/home), June 24-28, 2024, Padova, Italy.
+![DFOS'24](images/1719575993882.jpg)
+Thanks to the local organizing committee (Giampaolo Liuzzi, Margherita Porcelli, and Francesco Rinaldi) and the scientific committee  (Ana Luísa Custódio, Sebastien Le Digabel, Giampaolo Liuzzi, Margherita Porcelli, and Francesco Rinaldi).
 * [1st Derivative-Free Optimization Symposium (DFOS'22)](https://www.birs.ca/events/2022/5-day-workshops/22w5199), July 17-July 22, 2022, Kelowna, Canada.
+![DFOS'22](images/22w5199_1.jpg)
+Thanks to organizers Warren Hare, Charles Audet, Ana Luísa Custódio, and Matt Menickelly.
 * 0th Derivative-Free Optimization Symposium (DFOS'20) -- Postponed
 
 ---
